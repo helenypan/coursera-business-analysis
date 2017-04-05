@@ -1,0 +1,36 @@
+DO assume:
+
+· Your analysis should be constrained to the 244 properties owned by the one client.
+
+· The occupancy rate of those 244 properties is 97.3% (or 36/37 months) when they are managed as long-term rentals.
+
+· The initial capital required to convert a long-term rental property to a short-term rental property is $30,000 (for furnishings, linens, etc.). That capital expenditure will depreciate over 5 years.
+
+· $6000 in cash will be needed for each property each year after the first (conversion) year to cover items that wear out quickly. This amount is treated as an expense and is not depreciated.
+
+· Utilities will be $300 a month for each property, or $3600 a year.
+
+· The hospitality fee (variable cost) for each visit (for key service, cleaning, etc.) will be $100, regardless of the actual number of days of a visit.
+
+· The average short-term stay is 3 nights.
+
+· All the properties have the same capital expenditure and fixed costs.
+
+· 10% of the rental fee should be budgeted for potential regulatory and legal fees.
+
+· 20% of the rental fee should be budgeted for the online short-term rental provider (like Airbnb).
+
+· The two fees above are also combined and called the "transaction fee" in some spreadsheets and questions. The total default transaction fee is 30%.
+
+· All clients pay their rent on time.
+
+
+You should ignore the impact of any:
+
+· weekly or seasonal changes in rent or occupancy rate.
+
+· marketing strategies, like discounts or coupons.
+
+· special events during the year that might affect the rentals in one specific location.
+
+· loss in rent during the time interval when properties are being converted to short-term rental properties,
